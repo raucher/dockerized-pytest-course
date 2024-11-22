@@ -4,3 +4,5 @@ __pycache__
 *.pyc
 pytestdebug.log
 .coverage
+venv
+python_unit_testing_in_docker.egg-info
